@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "userName": "admin",
+      "password": "admin"
+    },
+    {
+      "userName": "srihitha",
+      "password": "tadiparthi"
+    },
+    {
+      "userName": "Divya",
+      "password": "tadiparthi"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Magic Amazon",
+      "info": "The Magic Amazon is a Tiki cocktail made of fruit juices, liqueurs, and various rums. It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant.",
+      "img": "5.jpg",
+      "price": "$12.22",
+      "category": "2-pack",
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "name": "Orange Juice",
+      "info": "Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine.",
+      "img": "1.jpg",
+      "price": "$12.22",
+      "category": "6-pack",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "name": "Blue Lagoon",
+      "info": "The Blue Lagoon is a French cocktail featuring blue Curaçao mixed with vodka and lemonade. It is typically garnished with an orange slice or a lemon slice. A Blue Lagoon is typically served in a hurricane glass",
+      "img": "4.jpg",
+      "price": "$12.22",
+      "category": "8-pack",
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "name": "Blue Lagoon",
+      "info": "The Blue Lagoon is a French cocktail featuring blue Curaçao mixed with vodka and lemonade. It is typically garnished with an orange slice or a lemon slice. A Blue Lagoon is typically served in a hurricane glass",
+      "img": "4.jpg",
+      "price": "$12.22",
+      "category": "2-pack",
+      "quantity": 1,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Orange Juice",
+      "info": "Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine.",
+      "img": "1.jpg",
+      "price": "$12.22"
+    },
+    {
+      "id": 2,
+      "name": "Coca-Cola",
+      "info": "Coca-Cola, or Coke, is a carbonated soft drink manufactured by The Coca-Cola Company. Originally marketed as a temperance drink and intended as a patent medicine, it retains a bitter taste and burnt sugar odor.",
+      "img": "2.jpg",
+      "price": "$12.22"
+    },
+    {
+      "id": 3,
+      "name": "Passion Tropic",
+      "info": "Light and breezy this passion fruit mojito is an easy cocktail to make at home. With mint, passion fruit juice and rum this passion fruit mojito is a vacation in a glass.",
+      "img": "3.jpg",
+      "price": "$12.22"
+    },
+    {
+      "id": 4,
+      "name": "Blue Lagoon",
+      "info": "The Blue Lagoon is a French cocktail featuring blue Curaçao mixed with vodka and lemonade. It is typically garnished with an orange slice or a lemon slice. A Blue Lagoon is typically served in a hurricane glass",
+      "img": "4.jpg",
+      "price": "$12.22"
+    },
+    {
+      "id": 5,
+      "name": "Magic Amazon",
+      "info": "The Magic Amazon is a Tiki cocktail made of fruit juices, liqueurs, and various rums. It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant.",
+      "img": "5.jpg",
+      "price": "$12.22"
+    },
+    {
+      "id": 6,
+      "name": "Royal Blue",
+      "info": "The Royal Blue cocktail is a dark blue drink with vodka and lemonade. The traditional garnish of an orange slice or a thin wedge of lime makes this cocktail more refreshing. But if you enjoy experimenting with your drinks, try adding some cordial for just the right amount of tang!",
+      "img": "6.jpg",
+      "price": "$12.22"
+    },
+    {
+      "id": 7,
+      "name": "Pina Colado",
+      "info": "The piña colada is a cocktail made with rum, cream of coconut, and pineapple juice, usually served either blended or shaken with ice. It may be garnished with either a pineapple wedge, maraschino cherry, or both. The drink originated in Puerto Rico",
+      "img": "7.jpg",
+      "price": "$12.22"
+    },
+    {
+      "id": 8,
+      "name": "Zombie",
+      "info": "The Zombie is a Tiki cocktail made of fruit juices, liqueurs, and various rums. It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant.",
+      "img": "1.jpg",
+      "price": "$12.22"
+    }
+  ]
+}
